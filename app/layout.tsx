@@ -1,3 +1,4 @@
+import './globals.css';
 export const metadata = {
   title: 'Miggle Search Engine',
   description: 'Fair play search infrastructure.',
